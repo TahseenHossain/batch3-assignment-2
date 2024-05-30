@@ -4,15 +4,6 @@ In this project I have done this things-
 -Update stocks with change of order.
 -Validation with Zod.
 
-To create Products my Endpoint is- http://localhost:5000/api/products/
-I used POST method.
-
-To retrieve all Products Endpoint is- http://localhost:5000/api/products/
-I used GET method.
-
-To retrieve a Products Endpoint is- http://localhost:5000/api/products/:productId
-I used GET method.
-
 To update a Products Endpoint is- http://localhost:5000/api/products/:productId
 I used PUT method.
 
