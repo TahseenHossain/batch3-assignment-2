@@ -34,4 +34,3 @@ I used GET method.
 All request bodies are validated using Zod to ensure data integrity. Validation errors will result in a 400 Bad Request response with details about the validation issues.
 
 I used Vercel To deploy my Server side code with data base.
-I used email to log in to vercel
