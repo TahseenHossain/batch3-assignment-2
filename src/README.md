@@ -13,15 +13,6 @@ I used GET method.
 To retrieve a Products Endpoint is- http://localhost:5000/api/products/:productId
 I used GET method.
 
-To update a Products Endpoint is- http://localhost:5000/api/products/:productId
-I used PUT method.
-
-To Delete a Products Endpoint is- http://localhost:5000/api/products/:productId
-I used DELETE method.
-
-To search a Products Endpoint is- http://localhost:5000/api/products/searchTerm
-I used GET method.
-
 To create Order my Endpoint is- http://localhost:5000/api/orders/
 I used POST method.
 
